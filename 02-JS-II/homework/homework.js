@@ -14,7 +14,7 @@ function devolverString(str) {
     var resultado= x+y;
     return resultado;
   }
-  suma(2,4)
+
   
   function resta(x, y) {
     // Resta "y" de "x" y devuelve el valor
